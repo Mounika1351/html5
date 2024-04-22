@@ -1,0 +1,12 @@
+h2{
+    background-color: antiquewhite;
+    color: black;
+    border-left-width: 5px;
+    border-style: solid;
+    border-color: aqua;
+    border: 5px solid aqua;
+    border-radius: 10px;/*border curvature*/
+    padding: 20px 50px 100px 150px;/*20 px-top bottom 50px-left right*/
+    margin-left: 20px;
+
+}

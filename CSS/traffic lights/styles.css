@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: bisque;
+}
+.main{
+    background-color: aqua;
+    height: 400px;
+}
+.light{
+    background-color: antiquewhite;
+    height: 75px;
+    border: 1px solod black;
+    width: 75px;
+    margin: 20px;
+    padding: 25px;
+    border-radius: 50%;
+}
+/*pseudo elements---based on condition*/
+.light:hover{
+    background-color: red;
+}
+
+#box1:hover{
+    background-color: red;
+
+}
+#box2:hover{
+    background-color: orange;
+}
+#box3:hover{
+    background-color: green;
+}
+.stand{
+    background-color: black;
+    height: 50vh;
+    width: 25px;
+    margin-left: 35px;
+}

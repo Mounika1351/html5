@@ -1,0 +1,5 @@
+box model is callld heart of css
+every element in the web page is treated as box
+the outline of any box is calledd border-----border-right,bprder-top
+the gap betweeen box border and actual content of the box is called paddding.
+the gap between two box bordersi called margin. outside the  border.

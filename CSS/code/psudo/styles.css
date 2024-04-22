@@ -1,0 +1,79 @@
+*{
+    box-sizing: border-box;
+}
+/*psudo elements and  psudo classes*/
+a:link{  /*by default*/
+    background-color: red;
+}
+a:active{ /*by clicking*/
+    background-color: black;
+    color: white;
+}
+a:visited{ /*when visited*/
+    color: black;
+}
+input:hover{
+    background-color: blueviolet;
+}
+
+input:focus{
+    background-color: black;
+}
+
+input:required{
+    background-color: aquamarine;
+}
+
+input:optional{
+    background-color: chocolate;
+}
+
+
+/*required--optional,,, readonly--readwrite,,,disabled--enabled*/
+
+
+.main{
+    height: 300px;
+    width: 100px;
+    border: 1px solod red;
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+}
+
+p:first-child{
+    color: black;
+}
+
+div:nth-child(odd){
+    background-color: red;
+}
+
+.box:nth-last-child(){
+
+}
+
+.box:nth-of-type(){
+
+}
+
+.box:empty{
+    background-color: yellow;
+}
+
+/*psudo classes*/
+p::first-letter{
+    font-size: 50px;
+}
+
+
+p::first-line{
+    background-color: red;
+}
+
+p::after{
+    content:"mounika"
+}
