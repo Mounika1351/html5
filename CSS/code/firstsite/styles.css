@@ -1,0 +1,19 @@
+body
+{
+    background-color: skyblue;
+}
+
+h1{
+    text-align: center;
+}
+button{
+    background-color: aquamarine;
+    color: black;
+}
+.btn{
+    background-color: blueviolet;
+    color: black;
+}
+#second{
+    background-color: green;
+}

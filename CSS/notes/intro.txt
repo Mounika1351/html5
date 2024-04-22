@@ -1,0 +1,42 @@
+css-1994
+to style or design
+3 ways to design the webpage
+1.inline styling-- apply styles inline of any element style as a attribute
+2.internal styling--apply styling as a elemet. we will use it in head
+3.external--apply styling from external files
+
+inline>internal>external
+
+
+selectors:
+/* tag name */
+/* class  name */
+ .classname
+/* id */
+  #id
+
+  id>class>tag 
+
+
+  colors:
+
+  by name 
+
+
+  rgb
+  a---for lighter 
+  0.0 to 1.0
+
+  hsl--hue-degree-0 to 360 degrees
+  saturation--0 to 100 percentage
+  lightness--0 to 100 percentage
+  hsla
+
+  hex code
+
+  gradient---one color slowly transforms into another color
+
+  google web store--colorpicker
+  canva
+  figma
+  

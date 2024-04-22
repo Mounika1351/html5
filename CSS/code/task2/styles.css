@@ -1,0 +1,15 @@
+.first{
+    background-color: hsla(249, 68, 48,0.3);
+
+}
+#second{
+    background-color: white;
+    color: black;
+
+}
+body{
+    /*background: linear-gradient(to right,black 35,white,skyblue 35);
+    height: 100vh;*/
+    background: radial-gradient(to inner,skyblue,white);
+}
+

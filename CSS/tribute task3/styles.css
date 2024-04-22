@@ -1,0 +1,45 @@
+/* styles.css */
+body {
+    font-family: 'Arial', sans-serif;
+    background: url(https://images.tv9telugu.com/wp-content/uploads/2023/10/prabhas-ai-images.jpg?w=1280&enlarge=true) no-repeat center center fixed;
+    background-size: cover;
+    color: black;
+}
+
+body{
+    padding: 20px;
+    text-align: center;
+}
+
+h1, h2 {
+    color: #00f2ff;
+}
+
+p, li {
+    font-size: 16px;
+}
+
+a {
+    color: #FFD700;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    margin: 5px 0;
+}
+
+iframe {
+    display: block;
+    margin: 0 auto;
+}
+
+
+
